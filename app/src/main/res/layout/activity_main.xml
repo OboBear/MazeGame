@@ -9,10 +9,11 @@
         android:layout_height="wrap_content" />
 
 
-    <com.obo.maze.view.LoginView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+    <com.example.apple.maze.LoginView
 
-    </com.obo.maze.view.LoginView>
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
 
 </RelativeLayout>
